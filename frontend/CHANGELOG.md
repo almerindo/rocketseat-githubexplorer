@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/almerindo/rocketseat-githubexplorer/compare/v1.3.0...v1.4.0) (2020-05-05)
+
+
+### Features
+
+* add localstorage to store repos ([3f0e290](https://github.com/almerindo/rocketseat-githubexplorer/commit/3f0e290443b98da8972eb2620c76d92ea376e6e6))
+
 # [1.3.0](https://github.com/almerindo/rocketseat-githubexplorer/compare/v1.2.0...v1.3.0) (2020-05-05)
 
 
