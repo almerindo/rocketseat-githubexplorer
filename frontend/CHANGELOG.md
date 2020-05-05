@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/almerindo/rocketseat-githubexplorer/compare/v1.2.0...v1.3.0) (2020-05-05)
+
+
+### Features
+
+* add error on styled componet ([218ea1a](https://github.com/almerindo/rocketseat-githubexplorer/commit/218ea1a6d7a47c28e9f52bb99ff5fa96755e22a0))
+
 # [1.2.0](https://github.com/almerindo/rocketseat-githubexplorer/compare/v1.1.0...v1.2.0) (2020-05-05)
 
 
